@@ -10,3 +10,4 @@ scipy==0.18.1
 sox==1.2.6
 tree==0.1.0
 click==6.7
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
